@@ -37,15 +37,18 @@ This project proposes an AI-powered Smart Water Usage and Leakage Detection Assi
 
 ### AI Workflow
 
-- Water Usage Data
--      ↓
-- AI Pattern Analysis
--      ↓
-- Anomaly Detection
--      ↓
-- Leakage Alert
--      ↓
-- AI Recommendations
+## Workflow
+
+Water Usage Data  
+⬇  
+AI Pattern Analysis  
+⬇  
+Anomaly Detection  
+⬇  
+Leakage Alert Generation  
+⬇  
+AI Recommendations & Chatbot Support
+
 
 ## Sample Inputs
 - Daily household water usage (in liters)
