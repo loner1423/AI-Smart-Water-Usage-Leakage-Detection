@@ -33,6 +33,14 @@ This project proposes an AI-powered Smart Water Usage and Leakage Detection Assi
 4. System generates alerts and recommendations
 5. Chatbot answers user queries related to water conservation
 
+## Prototype Screenshots
+
+### AI Workflow
+![Workflow Diagram](workflow_demo.png)
+
+### Sample AI Output
+![Sample Output](sample_output_demo.png)
+
 ## Sample Inputs
 - Daily household water usage (in liters)
 - User query: "How can I reduce water usage?"
