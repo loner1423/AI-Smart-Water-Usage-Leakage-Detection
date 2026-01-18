@@ -36,10 +36,7 @@ This project proposes an AI-powered Smart Water Usage and Leakage Detection Assi
 ## Prototype Screenshots
 
 ### AI Workflow
-![Workflow Diagram](workflow_demo.png)
-
-### Sample AI Output
-![Sample Output](sample_output_demo.png)
+![Workflow Diagram](flow.io)
 
 ## Sample Inputs
 - Daily household water usage (in liters)
